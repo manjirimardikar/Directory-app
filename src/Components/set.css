@@ -1,0 +1,74 @@
+.sethead{
+    margin: 2rem auto;
+    width: 70rem;
+    padding: 2rem;
+    border: 1px solid #4D72BE;
+    position: relative;
+}
+#retid{
+
+    width: 13rem;
+    height: 1.5rem;
+}
+#retbu{
+    height: 1.7rem;
+    width: 6rem;
+    background-color: #4D72BE;
+    border: none;
+    margin: 2px;
+    color: white;
+    font-weight: 600;
+}
+.resultbox{
+    padding: 20px;
+}
+.paragr{
+    display: inline;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 5px;
+    background-color: #4D72BE;
+}
+table{
+    
+    padding: 5px;
+    border: 1px solid #4D72BE;
+    margin: 2rem auto;
+    border-collapse: collapse;
+   
+}
+tr{
+    
+    border: 1px solid #4D72BE;
+}
+th{
+    background-color: #4D72BE;
+    padding: 15px;
+    color: white;
+    border: 1px solid black;
+}
+td{
+    border: 1px solid #4D72BE;
+    padding: 5px;
+    text-align: center;
+}
+.buttonpartset{
+    display: flex;
+    position: relative;
+    padding: 3rem   ;
+}
+.buttonpartset button{
+
+    border: none;
+    background-color: #4D72BE;
+    color: white;
+    height: 2rem;
+    width: 5rem;
+    font-weight: 600;
+    font-size: 15px;
+    border-radius: 5px;
+    position: absolute;
+    right: 0;
+}
